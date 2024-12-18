@@ -1,0 +1,14 @@
+# Build artifacts
+main.js
+*.js.map
+data.json
+
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store

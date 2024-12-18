@@ -1,0 +1,9 @@
+{
+    "id": "atomic-notes",
+    "name": "Atomic Notes",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Enforces atomic note-taking by setting character limits with visual feedback.",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}

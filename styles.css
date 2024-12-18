@@ -1,0 +1,56 @@
+.atomic-notes-warning {
+    color: var(--text-error);
+    padding: 10px;
+    margin-top: 10px;
+    background-color: var(--background-modifier-error-hover);
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.atomic-notes-overflow {
+    color: var(--text-error) !important;
+    background-color: var(--background-modifier-error);
+    border-radius: 2px;
+    padding: 0 2px;
+}
+
+.rule-container {
+    background-color: var(--background-secondary);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.rule-container h3 {
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.rule-container hr {
+    margin: 16px 0;
+    border: none;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+.rule-container .setting-item:last-child {
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+/* Status bar styles */
+.atomic-notes-status-enabled {
+    color: var(--text-success);
+}
+
+.atomic-notes-status-disabled {
+    color: var(--text-muted);
+}
+
+/* Ribbon icon styles */
+.atomic-notes-ribbon-enabled {
+    color: var(--text-success);
+}
+
+.atomic-notes-ribbon-disabled {
+    color: var(--text-muted);
+} 
